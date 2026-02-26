@@ -1,0 +1,15 @@
+ p{
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+ }
+ .sales{
+    font-size: 26px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 8px;
+  }
+  .sales-end{
+    color: red;
+    font-style: italic;
+  }

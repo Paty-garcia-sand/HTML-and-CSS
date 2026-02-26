@@ -1,0 +1,11 @@
+.add-to-button {
+    background-color: rgb(255, 216, 20);
+    border-color: black;
+    border-style: none;
+    border-radius: 18px;
+    color: black;
+    padding: 10px 48px;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+  }

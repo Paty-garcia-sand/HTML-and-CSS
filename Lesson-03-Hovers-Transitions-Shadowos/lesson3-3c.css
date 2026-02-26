@@ -1,0 +1,15 @@
+.sign-up {
+    background-color: rgb(46, 164, 79);
+    border-style: none;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 15px 25px;
+    border-radius: 9px;
+    cursor: pointer;
+    margin-left: 10px;
+    transition: box-shadow 0.15s;
+  }
+  .sign-up:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+  }

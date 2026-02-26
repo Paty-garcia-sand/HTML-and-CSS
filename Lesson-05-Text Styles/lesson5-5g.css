@@ -1,0 +1,21 @@
+  p{
+    font-family: Arial;
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .p1{
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  .p2{
+    color: rgb(100, 100, 100);
+  }
+  .p3{
+    width: 600px;
+    line-height: 25px;
+    margin-bottom: 20px;
+  }
+  .p5{
+    color: rgb(29, 155, 240);
+  }

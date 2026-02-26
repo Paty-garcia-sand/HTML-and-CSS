@@ -1,0 +1,14 @@
+.shadow-button {
+  background-color: green;
+  border-style: none;
+  color: white;
+  font-size: 18px;
+  padding: 8px 16px;
+  cursor: pointer;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+}
+.shadow-button:active {
+  box-shadow: none;
+  margin-top: 3px;
+  margin-left: 3px;
+} 

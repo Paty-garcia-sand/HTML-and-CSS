@@ -1,0 +1,33 @@
+ .back-button {
+    background-color: beige;
+    border-color:rgb(59, 34, 1);
+    border-style: solid;
+    border-width: 1px;
+    color: black;
+    padding: 13px 16px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    transition: background-color 0.15s, color 0.15s;
+  }
+  .search{
+    color: black;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 7px;
+  }
+  .next-button {
+    background-color: beige;
+    border-color:rgb(59, 34, 1);
+    border-style: solid;
+    border-width: 1px;
+    color: black;
+    padding: 13px 16px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    transition: background-color 0.15s,
+      color 0.15s;
+  }
