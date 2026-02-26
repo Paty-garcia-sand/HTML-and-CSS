@@ -1,0 +1,46 @@
+body{
+  height: 3000px;
+}
+.facebook-header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 10px 50px;
+}
+.left-section{
+  display: flex;
+  align-items: center;
+}
+.profile-picture{
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  object-fit: cover;
+  margin-right: 10px;
+}
+.profile-name{
+  font-family: Arial;
+  font-weight: bold;
+}
+.add-friend-button{
+  margin-right: 3px;
+  padding: 8px 12px;
+  background-color: rgb(24, 119, 242);
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.message-button{
+  padding: 8px 12px;
+  background-color: rgb(230, 230, 230);
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}

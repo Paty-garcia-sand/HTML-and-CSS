@@ -1,0 +1,32 @@
+div{
+  font-family: Arial;
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height:50px;
+    background-color: rgb(120, 82, 178);
+    color: white;
+    padding: 15px 15px;
+}
+.home{
+  font-weight: bold;
+}
+.search-box{
+  width: 500px;
+  border: none;
+  border-radius: 15px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  padding-left: 20px;
+}
+.download-button{
+  border-color: white;
+  background-color: rgb(120, 82, 178);
+  border-style: solid;
+  border-radius: 2px;
+  padding: 8px 15px;
+  color: white;
+}

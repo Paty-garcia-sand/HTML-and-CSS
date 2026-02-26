@@ -1,0 +1,39 @@
+.body{
+  height: 3000px;
+}
+.container{
+  position: relative;
+  display: inline-block;
+}
+.blueshirt{
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+.porcent-off{
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  background-color: black;
+  color: white;
+  font-family: Arial;
+  padding: 8px 12px;
+}
+.bottom-overlay{
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  height: 80px;
+  background-color: rgba(255, 255, 255, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.add-to-cart{
+  background-color: white;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  padding: 10px 15px;
+}

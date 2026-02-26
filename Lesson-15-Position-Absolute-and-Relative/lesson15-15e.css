@@ -1,0 +1,21 @@
+.body{
+  height: 3000px;
+}
+.container{
+  position: relative;
+  display: inline-block;
+}
+.blueshirt{
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+.porcent-off{
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  background-color: black;
+  color: white;
+  font-family: Arial;
+  padding: 8px 12px;
+}
